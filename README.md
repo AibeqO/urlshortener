@@ -19,7 +19,7 @@
 1. Откройте Visual Studio Code.
 2. Откройте терминал в Visual Studio Code, нажав `Ctrl + \`` или выбрав `View > Terminal` в меню.
 3. В терминале выполните команду для клонирования репозитория (или скачайте файлы проекта и распакуйте их в нужную директорию):
-git clone https://github.com/AibeqO/urlshortener
+git clone https://github.com/AibeqO/urlshortener.git
 
 # Использование
 
